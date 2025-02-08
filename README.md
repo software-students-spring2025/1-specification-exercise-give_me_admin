@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Catherine Huang: https://github.com/Catherine1342
+Catherine Huang: https://github.com/Catherine1342  
 Max Luetke Meyring: https://github.com/maxlmeyring
 
 ## Stakeholders
@@ -36,10 +36,10 @@ See instructions. Delete this line and place your Product Vision Statement here.
 ## User Requirements
 
 ### User Stories
-User #1: Teddy
+User #1: Teddy  
 *As a **fitness influencer**, I want to **share my exercise regime with others** so that **new gym-goers can know what exercises to do**.*
 
-User #2: Shannon
+User #2: Shannon  
 *As a **personal trainer**, I want to **advertise my services to gym patrons** so that **I can find new clients conveniently**.*
 
 User #3: Harry
