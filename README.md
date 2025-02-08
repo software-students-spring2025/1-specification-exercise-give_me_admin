@@ -4,11 +4,29 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Catherine Huang: https://github.com/Catherine1342
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholder: Victoria Huang
+
+Victoria an active climber who seeks to improve her climbing skills.
+Victoria's goals are:
+- Climb a V7 [^1]
+- Do a pistol squat
+- Improve on dynos
+- Flash more V5s [^2]
+
+Some problems/fustrations Victoria has are:
+- She would like a way to key into the gym without needing to present a physical card everytime.
+- Identify when the gym is busy/empty, and which sections of the gym is less busy.
+- Keep track of her progress
+- Have a way to tag routes with the skillset needed to send them, so she knows where to go to practice certain skills. [^3]
+
+[^1]: The V scale grading describes the difficulty of a route. The higher the number, the higher the route.
+[^2]: The term "flash" in climbing means to complete a route on the first attempt.
+[^3]: The term "send" in climbing means to complete a route.
+
 
 ## Product Vision Statement
 
