@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Catherine Huang: https://github.com/Catherine1342  
 Max Luetke Meyring: https://github.com/maxlmeyring
+Helen Ho: https://github.com/hhelenho 
 
 ## Stakeholders
 
@@ -31,7 +32,7 @@ Some problems/fustrations Victoria has are:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+**To create the most seamless and inclusive fitness experience by connecting individuals of all fitness levels with personalized workout plans, expert guidance, and a supportive community.**
 
 ## User Requirements
 
