@@ -70,7 +70,10 @@ Some problems/fustrations Victoria has are:
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**User #1: Teddy**
+*As a **fitness influencer**, I want to **share my exercise regime with others** so that **new gym-goers can know what exercises to do**.*
+![SWE UML Diagram](https://github.com/user-attachments/assets/8718ca09-04e6-4a0f-8adb-dbe9f11f82e6)
+
 
 ## Clickable Prototype
 
