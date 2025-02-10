@@ -12,14 +12,14 @@ A little exercise to get started with the specification phase of the software de
 
 ### Stakeholder: Victoria Huang
 
-Victoria an active climber who seeks to improve her climbing skills.
+Victoria is an active climber who seeks to improve her climbing skills.
 Victoria's goals are:
 - Climb a V7 [^1]
 - Do a pistol squat
 - Improve on dynos
 - Flash more V5s [^2]
 
-Some problems/fustrations Victoria has are:
+Some problems/frustrations Victoria has are:
 - She would like a way to key into the gym without needing to present a physical card everytime.
 - Identify when the gym is busy/empty, and which sections of the gym is less busy.
 - Keep track of her progress
@@ -28,6 +28,18 @@ Some problems/fustrations Victoria has are:
 [^1]: The V scale grading describes the difficulty of a route. The higher the number, the higher the route.
 [^2]: The term "flash" in climbing means to complete a route on the first attempt.
 [^3]: The term "send" in climbing means to complete a route.
+
+### Stakeholder: Ary Gummakonda
+
+Ary is a busy student trying to improve his fitness through food and exercise.
+Ary's goals are:
+- Go to the gym consistently, at least 4 times a week
+- Lose body weight through healthy eating
+
+Some problems/frustrations Ary has are:
+- He struggles to keep himself accountable with going to the gym.
+- When he is at the gym, he always does the same exercises and is unsure whether they are good for him.
+- He doesn't know how to reach his protein intake goals without overeating.
 
 
 ## Product Vision Statement
