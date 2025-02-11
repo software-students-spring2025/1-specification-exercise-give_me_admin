@@ -89,7 +89,7 @@ Some problems/frustrations Ary has are:
 **User #3: Harry**  
 *As a **first-time gym goer**, I want to **find exercises for beginners** so that **I feel more comfortable with going for the first time**.*
 
-![SWE UML Diagram](https://github.com/software-students-spring2025/1-specification-exercise-give_me_admin/blob/main/uml-diagram-story3.png)
+![SWE UML Diagram (1)](https://github.com/user-attachments/assets/60866815-8a4d-4109-80ba-46f7e0a648b6)
 
 ## Wireframe Diagram
 ![Wireframe Diagram](https://github.com/software-students-spring2025/1-specification-exercise-give_me_admin/blob/main/project1-wireframe.png)
