@@ -83,11 +83,16 @@ Some problems/frustrations Ary has are:
 
 **User #1: Teddy**  
 *As a **fitness influencer**, I want to **share my exercise regime with others** so that **new gym-goers can know what exercises to do**.*
+
 ![SWE UML Diagram](https://github.com/user-attachments/assets/8718ca09-04e6-4a0f-8adb-dbe9f11f82e6)
 
 **User #3: Harry**  
 *As a **first-time gym goer**, I want to **find exercises for beginners** so that **I feel more comfortable with going for the first time**.*
-![SWE UML DIAGRAM](https://github.com/software-students-spring2025/1-specification-exercise-give_me_admin/blob/main/uml-diagram-story3.png)
+
+![SWE UML Diagram](https://github.com/software-students-spring2025/1-specification-exercise-give_me_admin/blob/main/uml-diagram-story3.png)
+
+## Wireframe Diagram
+![Wireframe Diagram](https://github.com/software-students-spring2025/1-specification-exercise-give_me_admin/blob/main/project1-wireframe.png)
 
 ## Clickable Prototype
 
