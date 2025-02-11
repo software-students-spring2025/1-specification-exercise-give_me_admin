@@ -70,7 +70,7 @@ Some problems/frustrations Ary has are:
 *As an **aspiring professional body-builder**, I want to **see the exercises that other body-builders do** so that **I know what I need to do or avoid to reach my goals**.*
 
 **User #8:** Mike  
-*As a **older man with arthritis**, I want to **find ways to stay fit given my physical constraints** so that **I can remain healthy**.*
+*As a **fitness junkie**, I want a **one-stop shop for all things related to fitness** so that **I can share my lifestyle and see others' too**.*
 
 **User #9:** Annabelle  
 *As an **investment banker with limited free time**, I want to **know how to exercise from home** so that **I don't need to spend much time on my fitness**.*
