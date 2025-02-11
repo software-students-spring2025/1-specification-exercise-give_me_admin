@@ -62,7 +62,7 @@ Some problems/frustrations Ary has are:
 *As a **amateur power-lifter**, I want to **improve my current exercise regime** so that **I gain the most amount of strength in the least amount of time from my regime**.*
 
 **User #5:** Anna  
-*As a **D1 track athelte**, I want to **find muscle-specific exercises** so that **I can find leg exercises to make me more explosive on the track**.*
+*As a **D1 track athlete**, I want to **find muscle-specific exercises** so that **I can find leg exercises to make me more explosive on the track**.*
 
 **User #6:** Derek  
 *As a **rock climber**, I want to **search for activity-specific excercises** so that **I can become better a better rock-climbing**.*
@@ -92,4 +92,4 @@ Some problems/frustrations Ary has are:
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/mFI3MBwTgVKpSKkD1Eyzhs/Give_me_Admin?node-id=69-118&p=f&t=Xj2yBSkbWrVaAAOh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=69%3A118
