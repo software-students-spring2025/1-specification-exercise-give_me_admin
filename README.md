@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- Catherine Huang: https://github.com/Catherine1342  
-- Max Luetke Meyring: https://github.com/maxlmeyring 
-- Helen Ho: https://github.com/hhelenho 
-- Matthew Ortega: https://github.com/bruhcolate
+- [Catherine Huang](https://github.com/Catherine1342)  
+- [Max Luetke Meyring](https://github.com/maxlmeyring) 
+- [Helen Ho](https://github.com/hhelenho) 
+- [Matthew Ortega](https://github.com/bruhcolate)
 
 ## Stakeholders
 
