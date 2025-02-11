@@ -21,13 +21,12 @@ Victoria's goals are:
 
 Some problems/frustrations Victoria has are:
 - She would like a way to key into the gym without needing to present a physical card everytime.
-- Identify when the gym is busy/empty, and which sections of the gym is less busy.
+- Share her progress with others.
 - Keep track of her progress
-- Have a way to tag routes with the skillset needed to send them, so she knows where to go to practice certain skills. [^3]
+- See what others are doing to stay fit.
 
 [^1]: The V scale grading describes the difficulty of a route. The higher the number, the higher the route.
 [^2]: The term "flash" in climbing means to complete a route on the first attempt.
-[^3]: The term "send" in climbing means to complete a route.
 
 ### Stakeholder: Ary Gummakonda
 
